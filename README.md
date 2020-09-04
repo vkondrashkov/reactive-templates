@@ -1,10 +1,14 @@
-# Reactive Templates
+# 🚀 Reactive Templates
+
+Reactive Templates – easiest way to create new MVVM modules without wasting time. It supports most popular reactive libraries including: RxSwift, ReactiveSwift and ReactiveKit.
 
 ## Installation
 1. Download repository content
-2. Open your terminal and use this command:
+2. Unarchive project
+3. Open your terminal and run script:
 ```bash
-open /Applications/Xcode.app/Contents/Developer/Library/Xcode/Templates/File\ Templates
+sh install.sh
 ```
-3. Drop there `Reactive Templates` folder from archive
+![Terminal output](Assets/terminal-output.png)
 4. Use templates in Xcode
+![Xcode templates](Assets/xcode-templates.png)
