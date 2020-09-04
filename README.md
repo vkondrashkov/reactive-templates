@@ -12,3 +12,9 @@ sh install.sh
 ![Terminal output](Assets/terminal-output.png)
 4. Use templates in Xcode
 ![Xcode templates](Assets/xcode-templates.png)
+
+## Uninstalling
+If you want to remove Reactive Templates from your Xcode templates just run command:
+```bash
+sh uninstall.sh
+```
