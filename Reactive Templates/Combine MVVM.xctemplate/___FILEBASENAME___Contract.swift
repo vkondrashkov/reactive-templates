@@ -1,4 +1,9 @@
-import RxSwift
+//
+//  ___FILEHEADER___
+//
+
+import Combine
+import SwiftUI
 
 protocol ___VARIABLE_productName:identifier___Container { }
 

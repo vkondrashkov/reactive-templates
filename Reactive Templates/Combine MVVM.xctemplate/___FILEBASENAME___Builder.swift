@@ -1,3 +1,7 @@
+//
+//  ___FILEHEADER___
+//
+
 import SwiftUI
 
 final class ___VARIABLE_productName:identifier___BuilderImpl: ___VARIABLE_productName:identifier___Builder {
@@ -12,7 +16,7 @@ final class ___VARIABLE_productName:identifier___BuilderImpl: ___VARIABLE_produc
     func build() -> AnyView {
         let interactor = ___VARIABLE_productName:identifier___InteractorImpl()
         let router = ___VARIABLE_productName:identifier___RouterImpl()
-        let viewModel = ViewModelImpl(
+        let viewModel = ___VARIABLE_productName:identifier___ViewModelImpl(
             interactor: interactor,
             router: router
         )
